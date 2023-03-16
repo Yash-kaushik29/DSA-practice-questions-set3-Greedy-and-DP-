@@ -16,7 +16,7 @@ class Solution{
              }
              else if(sum>0) {
                  ans[i]='0'+sum;
-                 // store the index of lmost significant non zero value
+                 // store the index of most significant non zero value
                  last=i;
                  sum=0;
              }
